@@ -1,0 +1,24 @@
+@font-face {
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    src: url(Roboto_400_normal.eot); /* http://fonts.gstatic.com/s/roboto/v30/KFOmCnqEu92Fr1Mu4mxO.eot */
+    src: local('☺'),
+        url(Roboto_400_normal.eot?#iefix) format('embedded-opentype'), /* http://fonts.gstatic.com/s/roboto/v30/KFOmCnqEu92Fr1Mu4mxO.eot */
+        url(Roboto_400_normal.woff2) format('woff2'), /* http://fonts.gstatic.com/s/roboto/v30/KFOmCnqEu92Fr1Mu4mxK.woff2 */
+        url(Roboto_400_normal.woff) format('woff'), /* http://fonts.gstatic.com/s/roboto/v30/KFOmCnqEu92Fr1Mu4mxM.woff */
+        url(Roboto_400_normal.ttf) format('truetype'), /* http://fonts.gstatic.com/s/roboto/v30/KFOmCnqEu92Fr1Mu4mxPKTU1Kg.ttf */
+        url(Roboto_400_normal.svg#Roboto_400_normal) format('svg'); /* http://fonts.gstatic.com/l/font?kit=KFOmCnqEu92Fr1Mu4mxN&skey=a0a0114a1dcab3ac&v=v30#Roboto */
+}
+@font-face {
+    font-family: 'Shantell Sans';
+    font-style: normal;
+    font-weight: 400;
+    src: url(Shantell+Sans_400_normal.eot); /* http://fonts.gstatic.com/s/shantellsans/v4/FeUaS0pCoLIo-lcdY7kjvNoQqWVWB0qWpl29ajppTuUTu_kJKmHesPOL-maYi4xZeHCNQ09eBlmv2QcUzJ39-rAISYR8S1ixwvk.eot */
+    src: local('☺'),
+        url(Shantell+Sans_400_normal.eot?#iefix) format('embedded-opentype'), /* http://fonts.gstatic.com/s/shantellsans/v4/FeUaS0pCoLIo-lcdY7kjvNoQqWVWB0qWpl29ajppTuUTu_kJKmHesPOL-maYi4xZeHCNQ09eBlmv2QcUzJ39-rAISYR8S1ixwvk.eot */
+        url(Shantell+Sans_400_normal.woff2) format('woff2'), /* http://fonts.gstatic.com/s/shantellsans/v4/FeUaS0pCoLIo-lcdY7kjvNoQqWVWB0qWpl29ajppTuUTu_kJKmHesPOL-maYi4xZeHCNQ09eBlmv2QcUzJ39-rAISYR8S1ixwv0.woff2 */
+        url(Shantell+Sans_400_normal.woff) format('woff'), /* http://fonts.gstatic.com/s/shantellsans/v4/FeUaS0pCoLIo-lcdY7kjvNoQqWVWB0qWpl29ajppTuUTu_kJKmHesPOL-maYi4xZeHCNQ09eBlmv2QcUzJ39-rAISYR8S1ixwvs.woff */
+        url(Shantell+Sans_400_normal.ttf) format('truetype'), /* http://fonts.gstatic.com/s/shantellsans/v4/FeUaS0pCoLIo-lcdY7kjvNoQqWVWB0qWpl29ajppTuUTu_kJKmHesPOL-maYi4xZeHCNQ09eBlmv2QcUzJ39-rAISYR8S1ixwvgTijRMWgc.ttf */
+        url(Shantell+Sans_400_normal.svg#Shantell+Sans_400_normal) format('svg'); /* http://fonts.gstatic.com/l/font?kit=FeUaS0pCoLIo-lcdY7kjvNoQqWVWB0qWpl29ajppTuUTu_kJKmHesPOL-maYi4xZeHCNQ09eBlmv2QcUzJ39-rAISYR8S1ixwvo&skey=bb27144b79335f7b&v=v4#ShantellSans */
+}
